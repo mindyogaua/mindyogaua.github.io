@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy
+---
+
 # MindYoga - Privacy Policy
 
 ## Privacy Policy
