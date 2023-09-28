@@ -5,7 +5,7 @@ title: "Privacy Policy"
 permalink: /privacy-policy
 ---
 
-# MindYoga - Privacy Policy
+
 
 ## Privacy Policy
 The App MindYoga app is a Free app. This SERVICE is provided at no cost and is intended for use as is.
