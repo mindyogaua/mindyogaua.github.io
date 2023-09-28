@@ -5,6 +5,8 @@ title: "Credits"
 permalink: /credits
 ---
 
+## Credits
+
 Below we give credits for the following resources which are used by MindYoga application:
 
 | file/type | author | terms/license |
