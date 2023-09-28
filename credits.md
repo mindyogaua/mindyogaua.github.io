@@ -1,6 +1,9 @@
+---
 layout: page
 title: "MindYoga: Credits"
 permalink: /credits
+
+---
 
 Below we give credits for the following resources which are used by MindYoga application:
 
