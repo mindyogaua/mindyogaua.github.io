@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MindYoga: Credits"
+title: "Credits"
 permalink: /credits
 
 ---
