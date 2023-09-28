@@ -7,7 +7,7 @@ permalink: /credits
 
 ## Credits
 
-Below we give credits for the following resources which are used by MindYoga application:
+Below we give credit to the number of Creators whose resources are being used by the MindYoga Application:
 
 | file/type | author | terms/license |
 | --- | --- | --- |
