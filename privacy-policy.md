@@ -7,7 +7,7 @@ and/or share ("process") your Personal Information ("Personal Data") when you us
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices.
 If you do not agree with our policies and practices, please do not use our Application/Service.
-If you still have any questions or concerns, please contact us at mindyoga.ua@gmail.com
+If you still have any questions or concerns, please [contact us](mailto:mindyoga.ua@gmail.com)
 
 ## Section 2: Information collection and use
 
@@ -58,3 +58,7 @@ Also, we strongly recommend you follow the next common security tips:
 We may update this privacy policy from time to time. 
 If we make any changes, we will post the updated privacy policy on this page. 
 We encourage you to review our privacy policy periodically to stay informed about how we are using your personal information.
+
+## Section 7: Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, please [contact us](mailto:mindyoga.ua@gmail.com).
